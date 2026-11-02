@@ -18,7 +18,4 @@
 * **GitHub:** [HigorCamposGit](https://github.com/HigorCamposGit)
 
 ---
-*Seja bem-vindo(a) ao meu perfil no GitHub!*
 
----
-*Seja bem-vindo(a) ao meu perfil no GitHub!*
