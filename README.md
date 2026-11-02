@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, me chamo Higor de Campos! 👋
 
-<!--
-**HigorCamposGit/HigorCamposGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Front-end em formação. Focado em FullStack, Lógca de prgramação e IA.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+* 🎓 Graduado em Sistemas para Internet.
+* 💻 Atualmente em desenvolvimento de Skilss em curso dentro da palataforma da Dio.
+* 🛠️ Tecnologias principais: HTML5, CSS3, JavaScript, Front-End e Back-end , Lógica de Porgramação, IA, Git & GitHub.
+* 🌐 Idiomas: Estudando Inglês, Mandarim.
+
+---
+
+### 📬 Onde me encontrar
+* **GitHub:** [HigorCamposGit](https://github.com/HigorCamposGit)
+
+---
+*Seja bem-vindo(a) ao meu perfil no GitHub!*
